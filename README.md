@@ -1,2 +1,2 @@
-# Dodgers
-This is the first short project in my Predictive Analytics course
+<h1 align="Center">Los Angeles Dodgers Marketing Analysis</h1>
+<p align="Center">This is a short project using Predictive Analytics techniques to make marketing decisions<p/>
